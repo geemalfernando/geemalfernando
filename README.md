@@ -5,6 +5,9 @@
   <a href="https://my-protofolio-duskey.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="./RESUME.md">
+    <img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/geemal-fernando-598588306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -90,6 +93,12 @@
 | 🔐 **[GenZipher](https://genzipher.vercel.app/)** | Healthcare security & trust platform with MFA, RBAC & AES-256-GCM | Node.js · MongoDB · WebCrypto · JWT |
 | 🆘 **[ResQ](https://disaster-management-app-host.web.app/)** | Offline-first disaster response system for flood crisis management | React · Vite · Firebase · Dexie.js · Leaflet.js |
 | 🏠 **[Nexa Build](https://nexa-build.web.app)** | Real-time 3D interior design & floor planning platform | Next.js 15 · React Three Fiber · Express · MongoDB |
+
+---
+
+### 📄 Resume
+
+You can view my latest resume here: **[View Resume](./RESUME.md)**
 
 ---
 
