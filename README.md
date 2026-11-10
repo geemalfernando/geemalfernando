@@ -22,7 +22,7 @@
 
 - 🎓 IT Undergraduate at **University of Moratuwa**, Sri Lanka
 - 💻 Passionate about **Full-Stack Development, AI & Machine Learning**
-- 🔭 Currently building **Auditra**, **GenZipher**, **ResQ**, and **Nexa Build**
+- 🔭 Currently building **Auditra**, **Nexa Build** and **Kairon**, and fine-tuning LLMs with **Sentinel-CTF**
 - 🌱 Exploring **Cloud, DevOps, Data Science & System Design**
 - ⚡ Fun fact: I lead teams both in tech (AIESEC Dev) and on the badminton court 🏸
 
@@ -87,12 +87,18 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏢 **[Auditra](https://auditra.pasidumihiranga.me/login)** | Auditing & Valuation ERP for property valuation & project management | Django REST · React · Flutter · PostgreSQL |
-| 🔐 **[GenZipher](https://genzipher.vercel.app/)** | Healthcare security & trust platform with MFA, RBAC & AES-256-GCM | Node.js · MongoDB · WebCrypto · JWT |
-| 🆘 **[ResQ](https://disaster-management-app-host.web.app/)** | Offline-first disaster response system for flood crisis management | React · Vite · Firebase · Dexie.js · Leaflet.js |
-| 🏠 **[Nexa Build](https://nexa-build.web.app)** | Real-time 3D interior design & floor planning platform | Next.js 15 · React Three Fiber · Express · MongoDB |
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| 🚚 **ResolveX** · 🥇 *CodeArena'26 Winner* | Last-mile delivery intelligence platform that resolves disputes from GPS, timestamps and photo evidence; Random Forest ETA model trained on 95K+ records (4.49-min MAE) | React · FastAPI · PostgreSQL · Random Forest | [Code](https://github.com/geemalfernando/ResolveX) · [Live](https://resolvex-app.vercel.app) |
+| 🛡️ **Sentinel-CTF** | Llama-3.2-3B fine-tuned with LoRA on 5,000+ cybersecurity write-ups, trained with MLX on Apple Silicon and served locally via llama.cpp & Ollama | Python · MLX · LoRA · Hugging Face · Ollama | — |
+| 🏠 **Nexa Build** | Real-time 3D interior design & multi-floor planning platform (main developer, 151 of 221 commits) | Next.js 15 · React Three Fiber · Express · MongoDB | [Client](https://github.com/Chaniths/NexaBuild-Client) · [Backend](https://github.com/geemalfernando/nexa-build-backend) · [Live](https://nexa-build.web.app) |
+| 📦 **Kairon** · *Tech-Triathlon 2026* | Delivery planning platform for a 120-outlet retailer (web + mobile, EN/SI/TA), shipped to AWS via CI/CD with 107 API tests | React · TypeScript · Fastify · PostgreSQL · Docker · AWS | [Code](https://github.com/geemalfernando/Aevion_Kairon) · [Live](https://d10j8dr2q1dn87.cloudfront.net) |
+| 🔐 **GenZipher** · 🥉 *3rd Place, CSSL Final* | Healthcare security & trust platform with MFA, RBAC, AES-256-GCM, signed prescriptions & tamper-evident audit logs | Node.js · MongoDB · WebCrypto · JWT | [Code](https://github.com/geemalfernando/Genzipher) · [Live](https://genzipher.vercel.app/) |
+| 🏢 **Auditra** · *with IXD Labs* | Auditing & valuation ERP for property valuation & project management | Django REST · React · Flutter · PostgreSQL | [Live](https://auditra.pasidumihiranga.me/login) |
+| 📊 **StockApp** | Inventory, sales & credit management for a distribution business, with bill-photo OCR and 84 API tests | React · Express 5 · MongoDB · Jest | [Code](https://github.com/geemalfernando/stockapp) |
+| 🆘 **ResQ** | Offline-first disaster response system for flood crisis management | React · Vite · Firebase · Dexie.js · Leaflet.js | [Live](https://disaster-management-app-host.web.app/) |
+
+**More:** [Spirit11](https://github.com/geemalfernando/SpiritX_--code-KARAYO_2) (MERN fantasy cricket) · [MailBox](https://github.com/geemalfernando/SpiritX_--code-KARAYO_1) (Java MVC email app) · [CRM24](https://github.com/geemalfernando/Crm24) (Node.js REST API)
 
 ---
 
